@@ -1,1 +1,1 @@
-This is file2 in master branch
+This is file2 in master branch (Second commit)
